@@ -1,0 +1,8 @@
+[
+    {"id": 1, "name": "Artefactos"},
+    {"id": 2, "name": "Reuniones"},
+    {"id": 3, "name": "Roles"},
+    {"id": 4, "name": "Equipos"},
+    {"id": 5, "name": "Base De Datos"},
+    {"id": 6, "name": "Roles Scrum"}
+  ]
